@@ -1,19 +1,19 @@
-# SimpleTodo
-# Projet 1 - *Nom de l'application ici*
 
-**Nom de votre application** est une application Android qui permet de créer une liste de tâches et des fonctionnalités de gestion des éléments de base, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant.
+# Projet 1 - *Simple To Do*
 
-Soumis par : **Votre nom ici**
+**Simple To Do** est une application Android qui permet de créer une liste de tâches et des fonctionnalités de gestion des éléments de base, notamment l'ajout de nouveaux éléments, la modification et la suppression d'un élément existant.
 
-Temps passé : **X** heures passées au total
+Soumis par : **Laguerre Medgunowsky Balthazar II**
+
+Temps passé : **48** heures passées au total
 
 ## Histoires d'utilisateurs
 
 La fonctionnalité **obligatoire** suivante est terminée :
 
-* [ ] L'utilisateur peut ** afficher une liste d'éléments à faire **
-* [ ] L'utilisateur peut ** ajouter et supprimer avec succès des éléments ** de la liste de tâches
-* [ ] La **liste des éléments de l'utilisateur est conservée** lors de la modification et récupérée correctement au redémarrage de l'application
+* [x] L'utilisateur peut ** afficher une liste d'éléments à faire **
+* [x] L'utilisateur peut ** ajouter et supprimer avec succès des éléments ** de la liste de tâches
+* [x] La **liste des éléments de l'utilisateur est conservée** lors de la modification et récupérée correctement au redémarrage de l'application
 
 Les fonctionnalités **facultatives** suivantes sont implémentées :
 
