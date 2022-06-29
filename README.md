@@ -19,10 +19,6 @@ Les fonctionnalités **facultatives** suivantes sont implémentées :
 
 * [ ] L'utilisateur peut ** appuyer sur un élément de tâche dans la liste et afficher un écran d'édition pour l'élément de tâche **, puis faire en sorte que les modifications apportées au texte soient reflétées dans la liste de tâches
 
-Les fonctionnalités **supplémentaires** suivantes sont implémentées :
-
-* [ ] Énumérez tout ce que vous pouvez faire d'autre pour améliorer la fonctionnalité de l'application !
-
 ## Procédure vidéo
 
 Voici une présentation des user stories implémentées :
@@ -34,6 +30,8 @@ GIF créé avec [LiceCap](http://www.cockos.com/licecap/).
 ## Remarques
 
 Décrivez les difficultés rencontrées lors de la création de l'application.
+
+one of the difficulties I met during the creation of the application was at the level where I had to add the part or the user had to register his items it did not work because I had made an error at the level of the builed gradle specifically at the level of the implementation read and write
 
 ## Licence
 
